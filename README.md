@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @ivanuchoa
-- 👀 I’m interested in Data Analyst
-- 🌱 I’m currently learning Power BI, Pandas, GCP
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ivan.uchoa@hotmail.com
+Seja bem-vindo (a)!
+
+Sobre mim
+Sou natural de Belém do Pará, morei em Brasília e atualmente moro em Bento Gonçalves.
+
+Formações
+- Engenharia Civil - UniCEUB - concluído
+- Engenharia de software - Uninter - em andamento
+
+Hobbys
+- Futebol
+- jogar online com meus amigos
+- boteco para conversar
+- Filmes e séries, netflix sempre vai bem em dias chuvosos
+
 
 <!---
 ivanuchoa/ivanuchoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
